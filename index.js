@@ -1,8 +1,9 @@
 let puppeteer = require("puppeteer");
 let $ = require("cheerio");
+let fs = require("fs");
 const url = "https://www.ashesh.com.np/nepali-calendar/";
 
-const START_YEAR = 1970;
+const START_YEAR = 2049;
 const END_YEAR = 2078;
 const MONTHS = [
   "Baishakh",
@@ -12,7 +13,7 @@ const MONTHS = [
   "Bhadra",
   "Ashwin",
   "Kartik",
-  "Mangshir",
+  "Mangsir",
   "Poush",
   "Magh",
   "Falgun",
@@ -27,18 +28,25 @@ const DAYS = [
   "Friday",
   "Saturday"
 ];
+let page, browser;
 
 let finalData = [];
 (async function() {
+  browser = await puppeteer.launch({ headless: true });
+  page = await browser.newPage();
+  await page.goto(url, { timeout: 30000000 });
   for (let year = START_YEAR; year < END_YEAR; year++) {
     let y = [];
     for (let i = 0; i < MONTHS.length; i++) {
       let m = await scrapData({ year: year, month: MONTHS[i] });
       y = [...y, m];
     }
-    [...finalData, y];
+    fs.writeFile(`${year}.json`, JSON.stringify(y, null, 1), e => {
+      if (e) console.log(e);
+    });
+    finalData = [...finalData, y];
   }
-  fs.writeFile("nepalidata.json", JSON.stringify(finalData), err => {
+  fs.writeFile("nepalidata.json", JSON.stringify(finalData, null, 1), err => {
     if (err) console.log(err);
     console.log("Successfully Written to File.");
   });
@@ -48,17 +56,14 @@ async function scrapData({ year, month }) {
   try {
     let m = [];
     console.log({ year, month });
-    let browser = await puppeteer.launch();
-    let page = await browser.newPage();
-    await page.goto(url);
+    await Promise.all([
+      page.click("input[value=Go]"),
+      page.waitForNavigation({ timeout: 200000000 })
+    ]);
+
     await page.select("#year", String(year));
     await page.select("#month", month);
     //   await page.keyboard.press("Enter");
-
-    await Promise.all([
-      page.click("input[value=Go]"),
-      page.waitForNavigation({ waitUntil: "networkidle0" })
-    ]);
 
     let html = await page.content();
 
@@ -67,7 +72,7 @@ async function scrapData({ year, month }) {
         .text()
         .split(" ");
     });
-
+    let index = 0;
     $("#calendartable tr", html).each((i, e) => {
       if (i !== 0 && i !== 1) {
         $(e)
@@ -88,7 +93,7 @@ async function scrapData({ year, month }) {
             m = [
               ...m,
               {
-                [i]: {
+                [index]: {
                   tithi,
                   date_np,
                   date_en,
@@ -96,10 +101,11 @@ async function scrapData({ year, month }) {
                 }
               }
             ];
+            index += 1;
           });
       }
     });
-    return { month: m };
+    return { [month]: m };
   } catch (e) {
     console.log({ e });
   }

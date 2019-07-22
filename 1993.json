@@ -1,0 +1,3410 @@
+[
+ {
+  "Baishakh": [
+   {
+    "0": {
+     "tithi": " Panchami ",
+     "date_np": "31",
+     "date_en": "12",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Panchami ",
+     "date_np": "1",
+     "date_en": "13",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Sasthi ",
+     "date_np": "2",
+     "date_en": "14",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Saptami ",
+     "date_np": "3",
+     "date_en": "15",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Astami ",
+     "date_np": "4",
+     "date_en": "16",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Nawami ",
+     "date_np": "5",
+     "date_en": "17",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Dashami ",
+     "date_np": "6",
+     "date_en": "18",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Ekadashi ",
+     "date_np": "7",
+     "date_en": "19",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Dwadashi ",
+     "date_np": "8",
+     "date_en": "20",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Trayodashi ",
+     "date_np": "9",
+     "date_en": "21",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Chaturdashi ",
+     "date_np": "10",
+     "date_en": "22",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Aaunsi ",
+     "date_np": "11",
+     "date_en": "23",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Pratipada ",
+     "date_np": "12",
+     "date_en": "24",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Tritiya ",
+     "date_np": "13",
+     "date_en": "25",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Chaturthi ",
+     "date_np": "14",
+     "date_en": "26",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Panchami ",
+     "date_np": "15",
+     "date_en": "27",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Sasthi ",
+     "date_np": "16",
+     "date_en": "28",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Saptami ",
+     "date_np": "17",
+     "date_en": "29",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Astami ",
+     "date_np": "18",
+     "date_en": "30",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Nawami ",
+     "date_np": "19",
+     "date_en": "31",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Dashami ",
+     "date_np": "20",
+     "date_en": "1",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Ekadashi ",
+     "date_np": "21",
+     "date_en": "2",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Dwadashi ",
+     "date_np": "22",
+     "date_en": "3",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Trayodashi ",
+     "date_np": "23",
+     "date_en": "4",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Chaturdashi ",
+     "date_np": "24",
+     "date_en": "5",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Purnima ",
+     "date_np": "25",
+     "date_en": "6",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Pratipada ",
+     "date_np": "26",
+     "date_en": "7",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Dwitiya ",
+     "date_np": "27",
+     "date_en": "8",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Dwitiya ",
+     "date_np": "28",
+     "date_en": "9",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Tritiya ",
+     "date_np": "29",
+     "date_en": "10",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": " Chaturthi ",
+     "date_np": "30",
+     "date_en": "11",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Jestha": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": " Sasthi ",
+     "date_np": "1",
+     "date_en": "13",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": " Saptami ",
+     "date_np": "2",
+     "date_en": "14",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Astami ",
+     "date_np": "3",
+     "date_en": "15",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Nawami ",
+     "date_np": "4",
+     "date_en": "16",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Dashami ",
+     "date_np": "5",
+     "date_en": "17",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Dwadashi ",
+     "date_np": "6",
+     "date_en": "18",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Trayodashi ",
+     "date_np": "7",
+     "date_en": "19",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Chaturdashi ",
+     "date_np": "8",
+     "date_en": "20",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Aaunsi ",
+     "date_np": "9",
+     "date_en": "21",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Pratipada ",
+     "date_np": "10",
+     "date_en": "22",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Dwitiya ",
+     "date_np": "11",
+     "date_en": "23",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Tritiya ",
+     "date_np": "12",
+     "date_en": "24",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Chaturthi ",
+     "date_np": "13",
+     "date_en": "25",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Panchami ",
+     "date_np": "14",
+     "date_en": "26",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Sasthi ",
+     "date_np": "15",
+     "date_en": "27",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Saptami ",
+     "date_np": "16",
+     "date_en": "28",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Astami ",
+     "date_np": "17",
+     "date_en": "29",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Nawami ",
+     "date_np": "18",
+     "date_en": "30",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Dashami ",
+     "date_np": "19",
+     "date_en": "1",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Ekadashi ",
+     "date_np": "20",
+     "date_en": "2",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Dwadashi ",
+     "date_np": "21",
+     "date_en": "3",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Trayodashi ",
+     "date_np": "22",
+     "date_en": "4",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Chaturdashi ",
+     "date_np": "23",
+     "date_en": "5",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Purnima ",
+     "date_np": "24",
+     "date_en": "6",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Pratipada ",
+     "date_np": "25",
+     "date_en": "7",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Dwitiya ",
+     "date_np": "26",
+     "date_en": "8",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Tritiya ",
+     "date_np": "27",
+     "date_en": "9",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Chaturthi ",
+     "date_np": "28",
+     "date_en": "10",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Panchami ",
+     "date_np": "29",
+     "date_en": "11",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Sasthi ",
+     "date_np": "30",
+     "date_en": "12",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Saptami ",
+     "date_np": "31",
+     "date_en": "13",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Ashadh": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Astami ",
+     "date_np": "1",
+     "date_en": "14",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Nawami ",
+     "date_np": "2",
+     "date_en": "15",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Dashami ",
+     "date_np": "3",
+     "date_en": "16",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Ekadashi ",
+     "date_np": "4",
+     "date_en": "17",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Dwadashi ",
+     "date_np": "5",
+     "date_en": "18",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Trayodashi ",
+     "date_np": "6",
+     "date_en": "19",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Aaunsi ",
+     "date_np": "7",
+     "date_en": "20",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Pratipada ",
+     "date_np": "8",
+     "date_en": "21",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Dwitiya ",
+     "date_np": "9",
+     "date_en": "22",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Tritiya ",
+     "date_np": "10",
+     "date_en": "23",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Chaturthi ",
+     "date_np": "11",
+     "date_en": "24",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Panchami ",
+     "date_np": "12",
+     "date_en": "25",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Sasthi ",
+     "date_np": "13",
+     "date_en": "26",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Saptami ",
+     "date_np": "14",
+     "date_en": "27",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Astami ",
+     "date_np": "15",
+     "date_en": "28",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Nawami ",
+     "date_np": "16",
+     "date_en": "29",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Dashami ",
+     "date_np": "17",
+     "date_en": "30",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Ekadashi ",
+     "date_np": "18",
+     "date_en": "31",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Dwadashi ",
+     "date_np": "19",
+     "date_en": "1",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Dwadashi ",
+     "date_np": "20",
+     "date_en": "2",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Trayodashi ",
+     "date_np": "21",
+     "date_en": "3",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Chaturdashi ",
+     "date_np": "22",
+     "date_en": "4",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Purnima ",
+     "date_np": "23",
+     "date_en": "5",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Pratipada ",
+     "date_np": "24",
+     "date_en": "6",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Dwitiya ",
+     "date_np": "25",
+     "date_en": "7",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Tritiya ",
+     "date_np": "26",
+     "date_en": "8",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Chaturthi ",
+     "date_np": "27",
+     "date_en": "9",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Panchami ",
+     "date_np": "28",
+     "date_en": "10",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Sasthi ",
+     "date_np": "29",
+     "date_en": "11",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Astami ",
+     "date_np": "30",
+     "date_en": "12",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": " Nawami ",
+     "date_np": "31",
+     "date_en": "13",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Shrawan": [
+   {
+    "0": {
+     "tithi": " Dashami ",
+     "date_np": "1",
+     "date_en": "14",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": " Ekadashi ",
+     "date_np": "2",
+     "date_en": "15",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": " Dwadashi ",
+     "date_np": "3",
+     "date_en": "16",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Trayodashi ",
+     "date_np": "4",
+     "date_en": "17",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Chaturdashi ",
+     "date_np": "5",
+     "date_en": "18",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Aaunsi ",
+     "date_np": "6",
+     "date_en": "19",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Pratipada ",
+     "date_np": "7",
+     "date_en": "20",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Dwitiya ",
+     "date_np": "8",
+     "date_en": "21",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Tritiya ",
+     "date_np": "9",
+     "date_en": "22",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Chaturthi ",
+     "date_np": "10",
+     "date_en": "23",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Panchami ",
+     "date_np": "11",
+     "date_en": "24",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Sasthi ",
+     "date_np": "12",
+     "date_en": "25",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Saptami ",
+     "date_np": "13",
+     "date_en": "26",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Astami ",
+     "date_np": "14",
+     "date_en": "27",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Nawami ",
+     "date_np": "15",
+     "date_en": "28",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Dashami ",
+     "date_np": "16",
+     "date_en": "29",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Ekadashi ",
+     "date_np": "17",
+     "date_en": "30",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Dwadashi ",
+     "date_np": "18",
+     "date_en": "1",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Trayodashi ",
+     "date_np": "19",
+     "date_en": "2",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Chaturdashi ",
+     "date_np": "20",
+     "date_en": "3",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Purnima ",
+     "date_np": "21",
+     "date_en": "4",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Pratipada ",
+     "date_np": "22",
+     "date_en": "5",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Dwitiya ",
+     "date_np": "23",
+     "date_en": "6",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Tritiya ",
+     "date_np": "24",
+     "date_en": "7",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Chaturthi ",
+     "date_np": "25",
+     "date_en": "8",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Panchami ",
+     "date_np": "26",
+     "date_en": "9",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Sasthi ",
+     "date_np": "27",
+     "date_en": "10",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Astami ",
+     "date_np": "28",
+     "date_en": "11",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Nawami ",
+     "date_np": "29",
+     "date_en": "12",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Dashami ",
+     "date_np": "30",
+     "date_en": "13",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Ekadashi ",
+     "date_np": "31",
+     "date_en": "14",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Bhadra": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Dwadashi ",
+     "date_np": "1",
+     "date_en": "15",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Trayodashi ",
+     "date_np": "2",
+     "date_en": "16",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Chaturdashi ",
+     "date_np": "3",
+     "date_en": "17",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Aaunsi ",
+     "date_np": "4",
+     "date_en": "18",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Pratipada ",
+     "date_np": "5",
+     "date_en": "19",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Dwitiya ",
+     "date_np": "6",
+     "date_en": "20",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Tritiya ",
+     "date_np": "7",
+     "date_en": "21",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Chaturthi ",
+     "date_np": "8",
+     "date_en": "22",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Panchami ",
+     "date_np": "9",
+     "date_en": "23",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Sasthi ",
+     "date_np": "10",
+     "date_en": "24",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Saptami ",
+     "date_np": "11",
+     "date_en": "25",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Astami ",
+     "date_np": "12",
+     "date_en": "26",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Nawami ",
+     "date_np": "13",
+     "date_en": "27",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Nawami ",
+     "date_np": "14",
+     "date_en": "28",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Dashami ",
+     "date_np": "15",
+     "date_en": "29",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Ekadashi ",
+     "date_np": "16",
+     "date_en": "30",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Dwadashi ",
+     "date_np": "17",
+     "date_en": "31",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Trayodashi ",
+     "date_np": "18",
+     "date_en": "1",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Chaturdashi ",
+     "date_np": "19",
+     "date_en": "2",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Purnima ",
+     "date_np": "20",
+     "date_en": "3",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Pratipada ",
+     "date_np": "21",
+     "date_en": "4",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Dwitiya ",
+     "date_np": "22",
+     "date_en": "5",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Tritiya ",
+     "date_np": "23",
+     "date_en": "6",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Chaturthi ",
+     "date_np": "24",
+     "date_en": "7",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Panchami ",
+     "date_np": "25",
+     "date_en": "8",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Sasthi ",
+     "date_np": "26",
+     "date_en": "9",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Astami ",
+     "date_np": "27",
+     "date_en": "10",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Nawami ",
+     "date_np": "28",
+     "date_en": "11",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Dashami ",
+     "date_np": "29",
+     "date_en": "12",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Ekadashi ",
+     "date_np": "30",
+     "date_en": "13",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Dwadashi ",
+     "date_np": "31",
+     "date_en": "14",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": " Trayodashi ",
+     "date_np": "32",
+     "date_en": "15",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Ashwin": [
+   {
+    "0": {
+     "tithi": " Chaturdashi ",
+     "date_np": "1",
+     "date_en": "16",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": " Aaunsi ",
+     "date_np": "2",
+     "date_en": "17",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": " Pratipada ",
+     "date_np": "3",
+     "date_en": "18",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Dwitiya ",
+     "date_np": "4",
+     "date_en": "19",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Tritiya ",
+     "date_np": "5",
+     "date_en": "20",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Chaturthi ",
+     "date_np": "6",
+     "date_en": "21",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Panchami ",
+     "date_np": "7",
+     "date_en": "22",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Sasthi ",
+     "date_np": "8",
+     "date_en": "23",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Saptami ",
+     "date_np": "9",
+     "date_en": "24",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Astami ",
+     "date_np": "10",
+     "date_en": "25",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Nawami ",
+     "date_np": "11",
+     "date_en": "26",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Dashami ",
+     "date_np": "12",
+     "date_en": "27",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Ekadashi ",
+     "date_np": "13",
+     "date_en": "28",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Dwadashi ",
+     "date_np": "14",
+     "date_en": "29",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Trayodashi ",
+     "date_np": "15",
+     "date_en": "30",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Chaturdashi ",
+     "date_np": "16",
+     "date_en": "31",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Purnima ",
+     "date_np": "17",
+     "date_en": "1",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Pratipada ",
+     "date_np": "18",
+     "date_en": "2",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Dwitiya ",
+     "date_np": "19",
+     "date_en": "3",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Tritiya ",
+     "date_np": "20",
+     "date_en": "4",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Chaturthi ",
+     "date_np": "21",
+     "date_en": "5",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Panchami ",
+     "date_np": "22",
+     "date_en": "6",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Sasthi ",
+     "date_np": "23",
+     "date_en": "7",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Astami ",
+     "date_np": "24",
+     "date_en": "8",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Nawami ",
+     "date_np": "25",
+     "date_en": "9",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Dashami ",
+     "date_np": "26",
+     "date_en": "10",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Ekadashi ",
+     "date_np": "27",
+     "date_en": "11",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Dwadashi ",
+     "date_np": "28",
+     "date_en": "12",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Trayodashi ",
+     "date_np": "29",
+     "date_en": "13",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Chaturdashi ",
+     "date_np": "30",
+     "date_en": "14",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Aaunsi ",
+     "date_np": "31",
+     "date_en": "15",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Kartik": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Pratipada ",
+     "date_np": "1",
+     "date_en": "16",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Dwitiya ",
+     "date_np": "2",
+     "date_en": "17",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Tritiya ",
+     "date_np": "3",
+     "date_en": "18",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Chaturthi ",
+     "date_np": "4",
+     "date_en": "19",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Panchami ",
+     "date_np": "5",
+     "date_en": "20",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Sasthi ",
+     "date_np": "6",
+     "date_en": "21",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Saptami ",
+     "date_np": "7",
+     "date_en": "22",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Astami ",
+     "date_np": "8",
+     "date_en": "23",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Nawami ",
+     "date_np": "9",
+     "date_en": "24",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Dashami ",
+     "date_np": "10",
+     "date_en": "25",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Ekadashi ",
+     "date_np": "11",
+     "date_en": "26",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Dwadashi ",
+     "date_np": "12",
+     "date_en": "27",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Trayodashi ",
+     "date_np": "13",
+     "date_en": "28",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Chaturdashi ",
+     "date_np": "14",
+     "date_en": "29",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Aaunsi ",
+     "date_np": "15",
+     "date_en": "30",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Pratipada ",
+     "date_np": "16",
+     "date_en": "1",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Dwitiya ",
+     "date_np": "17",
+     "date_en": "2",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Tritiya ",
+     "date_np": "18",
+     "date_en": "3",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Chaturthi ",
+     "date_np": "19",
+     "date_en": "4",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Panchami ",
+     "date_np": "20",
+     "date_en": "5",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Sasthi ",
+     "date_np": "21",
+     "date_en": "6",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Saptami ",
+     "date_np": "22",
+     "date_en": "7",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Astami ",
+     "date_np": "23",
+     "date_en": "8",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Nawami ",
+     "date_np": "24",
+     "date_en": "9",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Dashami ",
+     "date_np": "25",
+     "date_en": "10",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Ekadashi ",
+     "date_np": "26",
+     "date_en": "11",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Dwadashi ",
+     "date_np": "27",
+     "date_en": "12",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Trayodashi ",
+     "date_np": "28",
+     "date_en": "13",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Chaturdashi ",
+     "date_np": "29",
+     "date_en": "14",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Aaunsi ",
+     "date_np": "30",
+     "date_en": "15",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Pratipada ",
+     "date_np": "31",
+     "date_en": "16",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Mangsir": [
+   {
+    "0": {
+     "tithi": " Pratipada ",
+     "date_np": "30",
+     "date_en": "15",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Dwitiya ",
+     "date_np": "1",
+     "date_en": "17",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Tritiya ",
+     "date_np": "2",
+     "date_en": "18",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Chaturthi ",
+     "date_np": "3",
+     "date_en": "19",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Panchami ",
+     "date_np": "4",
+     "date_en": "20",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Sasthi ",
+     "date_np": "5",
+     "date_en": "21",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Saptami ",
+     "date_np": "6",
+     "date_en": "22",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Astami ",
+     "date_np": "7",
+     "date_en": "23",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Nawami ",
+     "date_np": "8",
+     "date_en": "24",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Dashami ",
+     "date_np": "9",
+     "date_en": "25",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Ekadashi ",
+     "date_np": "10",
+     "date_en": "26",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Dwadashi ",
+     "date_np": "11",
+     "date_en": "27",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Trayodashi ",
+     "date_np": "12",
+     "date_en": "28",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Chaturdashi ",
+     "date_np": "13",
+     "date_en": "29",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Purnima ",
+     "date_np": "14",
+     "date_en": "30",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Pratipada ",
+     "date_np": "15",
+     "date_en": "31",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Dwitiya ",
+     "date_np": "16",
+     "date_en": "1",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Chaturthi ",
+     "date_np": "17",
+     "date_en": "2",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Panchami ",
+     "date_np": "18",
+     "date_en": "3",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Sasthi ",
+     "date_np": "19",
+     "date_en": "4",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Saptami ",
+     "date_np": "20",
+     "date_en": "5",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Astami ",
+     "date_np": "21",
+     "date_en": "6",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Nawami ",
+     "date_np": "22",
+     "date_en": "7",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Dashami ",
+     "date_np": "23",
+     "date_en": "8",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Ekadashi ",
+     "date_np": "24",
+     "date_en": "9",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Dwadashi ",
+     "date_np": "25",
+     "date_en": "10",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Trayodashi ",
+     "date_np": "26",
+     "date_en": "11",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Chaturdashi ",
+     "date_np": "27",
+     "date_en": "12",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Chaturdashi ",
+     "date_np": "28",
+     "date_en": "13",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": " Aaunsi ",
+     "date_np": "29",
+     "date_en": "14",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Poush": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": " Dwitiya ",
+     "date_np": "1",
+     "date_en": "16",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": " Tritiya ",
+     "date_np": "2",
+     "date_en": "17",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Chaturthi ",
+     "date_np": "3",
+     "date_en": "18",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Panchami ",
+     "date_np": "4",
+     "date_en": "19",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Sasthi ",
+     "date_np": "5",
+     "date_en": "20",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Saptami ",
+     "date_np": "6",
+     "date_en": "21",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Astami ",
+     "date_np": "7",
+     "date_en": "22",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Nawami ",
+     "date_np": "8",
+     "date_en": "23",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Dashami ",
+     "date_np": "9",
+     "date_en": "24",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Ekadashi ",
+     "date_np": "10",
+     "date_en": "25",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Trayodashi ",
+     "date_np": "11",
+     "date_en": "26",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Chaturdashi ",
+     "date_np": "12",
+     "date_en": "27",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Purnima ",
+     "date_np": "13",
+     "date_en": "28",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Pratipada ",
+     "date_np": "14",
+     "date_en": "29",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Dwitiya ",
+     "date_np": "15",
+     "date_en": "30",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Tritiya ",
+     "date_np": "16",
+     "date_en": "1",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Chaturthi ",
+     "date_np": "17",
+     "date_en": "2",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Panchami ",
+     "date_np": "18",
+     "date_en": "3",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Sasthi ",
+     "date_np": "19",
+     "date_en": "4",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Saptami ",
+     "date_np": "20",
+     "date_en": "5",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Astami ",
+     "date_np": "21",
+     "date_en": "6",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Nawami ",
+     "date_np": "22",
+     "date_en": "7",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Dashami ",
+     "date_np": "23",
+     "date_en": "8",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Ekadashi ",
+     "date_np": "24",
+     "date_en": "9",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Dwadashi ",
+     "date_np": "25",
+     "date_en": "10",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Trayodashi ",
+     "date_np": "26",
+     "date_en": "11",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Chaturdashi ",
+     "date_np": "27",
+     "date_en": "12",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Aaunsi ",
+     "date_np": "28",
+     "date_en": "13",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Pratipada ",
+     "date_np": "29",
+     "date_en": "14",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Magh": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": " Dwitiya ",
+     "date_np": "1",
+     "date_en": "15",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": " Tritiya ",
+     "date_np": "2",
+     "date_en": "16",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Chaturthi ",
+     "date_np": "3",
+     "date_en": "17",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Panchami ",
+     "date_np": "4",
+     "date_en": "18",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Panchami ",
+     "date_np": "5",
+     "date_en": "19",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Sasthi ",
+     "date_np": "6",
+     "date_en": "20",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Saptami ",
+     "date_np": "7",
+     "date_en": "21",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Astami ",
+     "date_np": "8",
+     "date_en": "22",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Nawami ",
+     "date_np": "9",
+     "date_en": "23",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Dashami ",
+     "date_np": "10",
+     "date_en": "24",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Ekadashi ",
+     "date_np": "11",
+     "date_en": "25",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Dwadashi ",
+     "date_np": "12",
+     "date_en": "26",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Trayodashi ",
+     "date_np": "13",
+     "date_en": "27",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Purnima ",
+     "date_np": "14",
+     "date_en": "28",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Pratipada ",
+     "date_np": "15",
+     "date_en": "29",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Dwitiya ",
+     "date_np": "16",
+     "date_en": "30",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Chaturthi ",
+     "date_np": "17",
+     "date_en": "31",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Panchami ",
+     "date_np": "18",
+     "date_en": "1",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Sasthi ",
+     "date_np": "19",
+     "date_en": "2",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Sasthi ",
+     "date_np": "20",
+     "date_en": "3",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Saptami ",
+     "date_np": "21",
+     "date_en": "4",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Astami ",
+     "date_np": "22",
+     "date_en": "5",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Nawami ",
+     "date_np": "23",
+     "date_en": "6",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Dashami ",
+     "date_np": "24",
+     "date_en": "7",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Ekadashi ",
+     "date_np": "25",
+     "date_en": "8",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Dwadashi ",
+     "date_np": "26",
+     "date_en": "9",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Trayodashi ",
+     "date_np": "27",
+     "date_en": "10",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Chaturdashi ",
+     "date_np": "28",
+     "date_en": "11",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Aaunsi ",
+     "date_np": "29",
+     "date_en": "12",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Pratipada ",
+     "date_np": "30",
+     "date_en": "13",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Falgun": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": " Dwitiya ",
+     "date_np": "1",
+     "date_en": "14",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Tritiya ",
+     "date_np": "2",
+     "date_en": "15",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Chaturthi ",
+     "date_np": "3",
+     "date_en": "16",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Panchami ",
+     "date_np": "4",
+     "date_en": "17",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Sasthi ",
+     "date_np": "5",
+     "date_en": "18",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Saptami ",
+     "date_np": "6",
+     "date_en": "19",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Astami ",
+     "date_np": "7",
+     "date_en": "20",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Nawami ",
+     "date_np": "8",
+     "date_en": "21",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Dashami ",
+     "date_np": "9",
+     "date_en": "22",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Dwadashi ",
+     "date_np": "10",
+     "date_en": "23",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Trayodashi ",
+     "date_np": "11",
+     "date_en": "24",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Chaturdashi ",
+     "date_np": "12",
+     "date_en": "25",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Purnima ",
+     "date_np": "13",
+     "date_en": "26",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Pratipada ",
+     "date_np": "14",
+     "date_en": "27",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Dwitiya ",
+     "date_np": "15",
+     "date_en": "28",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Tritiya ",
+     "date_np": "16",
+     "date_en": "29",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Chaturthi ",
+     "date_np": "17",
+     "date_en": "30",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Panchami ",
+     "date_np": "18",
+     "date_en": "31",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Sasthi ",
+     "date_np": "19",
+     "date_en": "1",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Saptami ",
+     "date_np": "20",
+     "date_en": "2",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Astami ",
+     "date_np": "21",
+     "date_en": "3",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Nawami ",
+     "date_np": "22",
+     "date_en": "4",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Nawami ",
+     "date_np": "23",
+     "date_en": "5",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Dashami ",
+     "date_np": "24",
+     "date_en": "6",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Ekadashi ",
+     "date_np": "25",
+     "date_en": "7",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Dwadashi ",
+     "date_np": "26",
+     "date_en": "8",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Trayodashi ",
+     "date_np": "27",
+     "date_en": "9",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Chaturdashi ",
+     "date_np": "28",
+     "date_en": "10",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Aaunsi ",
+     "date_np": "29",
+     "date_en": "11",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Saturday"
+    }
+   }
+  ]
+ },
+ {
+  "Chaitra": [
+   {
+    "0": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Sunday"
+    }
+   },
+   {
+    "1": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Monday"
+    }
+   },
+   {
+    "2": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "3": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "4": {
+     "tithi": "",
+     "date_np": "",
+     "date_en": "",
+     "day": "Thursday"
+    }
+   },
+   {
+    "5": {
+     "tithi": " Pratipada ",
+     "date_np": "1",
+     "date_en": "12",
+     "day": "Friday"
+    }
+   },
+   {
+    "6": {
+     "tithi": " Dwitiya ",
+     "date_np": "2",
+     "date_en": "13",
+     "day": "Saturday"
+    }
+   },
+   {
+    "7": {
+     "tithi": " Tritiya ",
+     "date_np": "3",
+     "date_en": "14",
+     "day": "Sunday"
+    }
+   },
+   {
+    "8": {
+     "tithi": " Chaturthi ",
+     "date_np": "4",
+     "date_en": "15",
+     "day": "Monday"
+    }
+   },
+   {
+    "9": {
+     "tithi": " Sasthi ",
+     "date_np": "5",
+     "date_en": "16",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "10": {
+     "tithi": " Saptami ",
+     "date_np": "6",
+     "date_en": "17",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "11": {
+     "tithi": " Astami ",
+     "date_np": "7",
+     "date_en": "18",
+     "day": "Thursday"
+    }
+   },
+   {
+    "12": {
+     "tithi": " Nawami ",
+     "date_np": "8",
+     "date_en": "19",
+     "day": "Friday"
+    }
+   },
+   {
+    "13": {
+     "tithi": " Dashami ",
+     "date_np": "9",
+     "date_en": "20",
+     "day": "Saturday"
+    }
+   },
+   {
+    "14": {
+     "tithi": " Ekadashi ",
+     "date_np": "10",
+     "date_en": "21",
+     "day": "Sunday"
+    }
+   },
+   {
+    "15": {
+     "tithi": " Dwadashi ",
+     "date_np": "11",
+     "date_en": "22",
+     "day": "Monday"
+    }
+   },
+   {
+    "16": {
+     "tithi": " Trayodashi ",
+     "date_np": "12",
+     "date_en": "23",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "17": {
+     "tithi": " Chaturdashi ",
+     "date_np": "13",
+     "date_en": "24",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "18": {
+     "tithi": " Purnima ",
+     "date_np": "14",
+     "date_en": "25",
+     "day": "Thursday"
+    }
+   },
+   {
+    "19": {
+     "tithi": " Pratipada ",
+     "date_np": "15",
+     "date_en": "26",
+     "day": "Friday"
+    }
+   },
+   {
+    "20": {
+     "tithi": " Dwitiya ",
+     "date_np": "16",
+     "date_en": "27",
+     "day": "Saturday"
+    }
+   },
+   {
+    "21": {
+     "tithi": " Tritiya ",
+     "date_np": "17",
+     "date_en": "28",
+     "day": "Sunday"
+    }
+   },
+   {
+    "22": {
+     "tithi": " Chaturthi ",
+     "date_np": "18",
+     "date_en": "1",
+     "day": "Monday"
+    }
+   },
+   {
+    "23": {
+     "tithi": " Panchami ",
+     "date_np": "19",
+     "date_en": "2",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "24": {
+     "tithi": " Sasthi ",
+     "date_np": "20",
+     "date_en": "3",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "25": {
+     "tithi": " Saptami ",
+     "date_np": "21",
+     "date_en": "4",
+     "day": "Thursday"
+    }
+   },
+   {
+    "26": {
+     "tithi": " Astami ",
+     "date_np": "22",
+     "date_en": "5",
+     "day": "Friday"
+    }
+   },
+   {
+    "27": {
+     "tithi": " Nawami ",
+     "date_np": "23",
+     "date_en": "6",
+     "day": "Saturday"
+    }
+   },
+   {
+    "28": {
+     "tithi": " Dashami ",
+     "date_np": "24",
+     "date_en": "7",
+     "day": "Sunday"
+    }
+   },
+   {
+    "29": {
+     "tithi": " Ekadashi ",
+     "date_np": "25",
+     "date_en": "8",
+     "day": "Monday"
+    }
+   },
+   {
+    "30": {
+     "tithi": " Dwadashi ",
+     "date_np": "26",
+     "date_en": "9",
+     "day": "Tuesday"
+    }
+   },
+   {
+    "31": {
+     "tithi": " Trayodashi ",
+     "date_np": "27",
+     "date_en": "10",
+     "day": "Wednesday"
+    }
+   },
+   {
+    "32": {
+     "tithi": " Chaturdashi ",
+     "date_np": "28",
+     "date_en": "11",
+     "day": "Thursday"
+    }
+   },
+   {
+    "33": {
+     "tithi": " Aaunsi ",
+     "date_np": "29",
+     "date_en": "12",
+     "day": "Friday"
+    }
+   },
+   {
+    "34": {
+     "tithi": " Pratipada ",
+     "date_np": "30",
+     "date_en": "13",
+     "day": "Saturday"
+    }
+   }
+  ]
+ }
+]
