@@ -1,3410 +1,2572 @@
-[
- {
-  "Baishakh": [
-   {
-    "0": {
+{
+ "1970": [
+  {
+   "Baishakh": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " Pratipada ",
      "date_np": "1",
      "date_en": "17",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " Dwitiya ",
      "date_np": "2",
      "date_en": "18",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " Dwitiya ",
      "date_np": "3",
      "date_en": "19",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " Tritiya ",
      "date_np": "4",
      "date_en": "20",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " Chaturthi ",
      "date_np": "5",
      "date_en": "21",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " Panchami ",
      "date_np": "6",
      "date_en": "22",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " Sasthi ",
      "date_np": "7",
      "date_en": "23",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " Saptami ",
      "date_np": "8",
      "date_en": "24",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " Astami ",
      "date_np": "9",
      "date_en": "25",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " Nawami ",
      "date_np": "10",
      "date_en": "26",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " Dashami ",
      "date_np": "11",
      "date_en": "27",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " Ekadashi ",
      "date_np": "12",
      "date_en": "28",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " Dwadashi ",
      "date_np": "13",
      "date_en": "29",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " Trayodashi ",
      "date_np": "14",
      "date_en": "30",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " Chaturdashi ",
      "date_np": "15",
      "date_en": "31",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " Aaunsi ",
      "date_np": "16",
      "date_en": "1",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " Dwitiya ",
      "date_np": "17",
      "date_en": "2",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " Tritiya ",
      "date_np": "18",
      "date_en": "3",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " Chaturthi ",
      "date_np": "19",
      "date_en": "4",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " Panchami ",
      "date_np": "20",
      "date_en": "5",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " Sasthi ",
      "date_np": "21",
      "date_en": "6",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " Saptami ",
      "date_np": "22",
      "date_en": "7",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " Astami ",
      "date_np": "23",
      "date_en": "8",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " Nawami ",
      "date_np": "24",
      "date_en": "9",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " Dashami ",
      "date_np": "25",
      "date_en": "10",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " Ekadashi ",
      "date_np": "26",
      "date_en": "11",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " Dwadashi ",
      "date_np": "27",
      "date_en": "12",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " Trayodashi ",
      "date_np": "28",
      "date_en": "13",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " Chaturdashi ",
      "date_np": "29",
      "date_en": "14",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " रक्षा बन्धन ",
      "date_np": "30",
      "date_en": "15",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " Pratipada ",
      "date_np": "31",
      "date_en": "16",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": " Dwitiya ",
      "date_np": "32",
      "date_en": "17",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Jestha": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Jestha": [
+    {
      "tithi": " सप्तमी ",
      "date_np": "1",
      "date_en": "13",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "2",
      "date_en": "14",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "3",
      "date_en": "15",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "4",
      "date_en": "16",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "5",
      "date_en": "17",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "6",
      "date_en": "18",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "7",
      "date_en": "19",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "8",
      "date_en": "20",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "9",
      "date_en": "21",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "10",
      "date_en": "22",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "11",
      "date_en": "23",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "12",
      "date_en": "24",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "13",
      "date_en": "25",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "14",
      "date_en": "26",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "15",
      "date_en": "27",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "16",
      "date_en": "28",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "17",
      "date_en": "29",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "18",
      "date_en": "30",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "19",
      "date_en": "1",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "20",
      "date_en": "2",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "21",
      "date_en": "3",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "22",
      "date_en": "4",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "23",
      "date_en": "5",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "24",
      "date_en": "6",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "25",
      "date_en": "7",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "26",
      "date_en": "8",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "27",
      "date_en": "9",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "28",
      "date_en": "10",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "29",
      "date_en": "11",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "30",
      "date_en": "12",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "31",
      "date_en": "13",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Ashadh": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Ashadh": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "1",
      "date_en": "14",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "2",
      "date_en": "15",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "3",
      "date_en": "16",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "4",
      "date_en": "17",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "5",
      "date_en": "18",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "6",
      "date_en": "19",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "7",
      "date_en": "20",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "8",
      "date_en": "21",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "9",
      "date_en": "22",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "10",
      "date_en": "23",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "11",
      "date_en": "24",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "12",
      "date_en": "25",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "13",
      "date_en": "26",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "14",
      "date_en": "27",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "15",
      "date_en": "28",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "16",
      "date_en": "29",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "17",
      "date_en": "30",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "18",
      "date_en": "31",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "19",
      "date_en": "1",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "20",
      "date_en": "2",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "21",
      "date_en": "3",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "22",
      "date_en": "4",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "23",
      "date_en": "5",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "24",
      "date_en": "6",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "25",
      "date_en": "7",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "26",
      "date_en": "8",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "27",
      "date_en": "9",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "28",
      "date_en": "10",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "29",
      "date_en": "11",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "30",
      "date_en": "12",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "31",
      "date_en": "13",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Shrawan": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Shrawan": [
+    {
      "tithi": " दशमी ",
      "date_np": "30",
      "date_en": "13",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "31",
      "date_en": "14",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "32",
      "date_en": "15",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "1",
      "date_en": "14",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "2",
      "date_en": "15",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "3",
      "date_en": "16",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "4",
      "date_en": "17",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "5",
      "date_en": "18",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "6",
      "date_en": "19",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "7",
      "date_en": "20",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "8",
      "date_en": "21",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "9",
      "date_en": "22",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "10",
      "date_en": "23",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "11",
      "date_en": "24",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "12",
      "date_en": "25",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "13",
      "date_en": "26",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "14",
      "date_en": "27",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "15",
      "date_en": "28",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "16",
      "date_en": "29",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "17",
      "date_en": "30",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "18",
      "date_en": "1",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "19",
      "date_en": "2",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "20",
      "date_en": "3",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "21",
      "date_en": "4",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "22",
      "date_en": "5",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "23",
      "date_en": "6",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "24",
      "date_en": "7",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "25",
      "date_en": "8",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "26",
      "date_en": "9",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "27",
      "date_en": "10",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "28",
      "date_en": "11",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": " नवमी  ",
      "date_np": "29",
      "date_en": "12",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Bhadra": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Bhadra": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "1",
      "date_en": "16",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "2",
      "date_en": "17",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "3",
      "date_en": "18",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "4",
      "date_en": "19",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "5",
      "date_en": "20",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "6",
      "date_en": "21",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "7",
      "date_en": "22",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "8",
      "date_en": "23",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "9",
      "date_en": "24",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "10",
      "date_en": "25",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "11",
      "date_en": "26",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "12",
      "date_en": "27",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "13",
      "date_en": "28",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "14",
      "date_en": "29",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "15",
      "date_en": "30",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "16",
      "date_en": "31",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "17",
      "date_en": "1",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "18",
      "date_en": "2",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "19",
      "date_en": "3",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "20",
      "date_en": "4",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "21",
      "date_en": "5",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "22",
      "date_en": "6",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "23",
      "date_en": "7",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "24",
      "date_en": "8",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "25",
      "date_en": "9",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "26",
      "date_en": "10",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "27",
      "date_en": "11",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "28",
      "date_en": "12",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "29",
      "date_en": "13",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "30",
      "date_en": "14",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "31",
      "date_en": "15",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Ashwin": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Ashwin": [
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "30",
      "date_en": "14",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "31",
      "date_en": "15",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "1",
      "date_en": "16",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "2",
      "date_en": "17",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "3",
      "date_en": "18",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "4",
      "date_en": "19",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "5",
      "date_en": "20",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "6",
      "date_en": "21",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "7",
      "date_en": "22",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "8",
      "date_en": "23",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "9",
      "date_en": "24",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "10",
      "date_en": "25",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "11",
      "date_en": "26",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "12",
      "date_en": "27",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "13",
      "date_en": "28",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "14",
      "date_en": "29",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "15",
      "date_en": "30",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "16",
      "date_en": "31",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "17",
      "date_en": "1",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "18",
      "date_en": "2",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "19",
      "date_en": "3",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "20",
      "date_en": "4",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "21",
      "date_en": "5",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "22",
      "date_en": "6",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "23",
      "date_en": "7",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "24",
      "date_en": "8",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "25",
      "date_en": "9",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "26",
      "date_en": "10",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "27",
      "date_en": "11",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "28",
      "date_en": "12",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "29",
      "date_en": "13",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Kartik": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Kartik": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "1",
      "date_en": "16",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "2",
      "date_en": "17",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "3",
      "date_en": "18",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "4",
      "date_en": "19",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "5",
      "date_en": "20",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "6",
      "date_en": "21",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "7",
      "date_en": "22",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "8",
      "date_en": "23",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "9",
      "date_en": "24",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "10",
      "date_en": "25",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "11",
      "date_en": "26",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "12",
      "date_en": "27",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "13",
      "date_en": "28",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "14",
      "date_en": "29",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "15",
      "date_en": "30",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "16",
      "date_en": "1",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "17",
      "date_en": "2",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "18",
      "date_en": "3",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "19",
      "date_en": "4",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "20",
      "date_en": "5",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "21",
      "date_en": "6",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "22",
      "date_en": "7",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "23",
      "date_en": "8",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "24",
      "date_en": "9",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "25",
      "date_en": "10",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "26",
      "date_en": "11",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "27",
      "date_en": "12",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "28",
      "date_en": "13",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "29",
      "date_en": "14",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "30",
      "date_en": "15",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "31",
      "date_en": "16",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Mangsir": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Mangsir": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " दृतीया  ",
      "date_np": "1",
      "date_en": "17",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "2",
      "date_en": "18",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "3",
      "date_en": "19",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "4",
      "date_en": "20",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "5",
      "date_en": "21",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "6",
      "date_en": "22",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "7",
      "date_en": "23",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "8",
      "date_en": "24",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "9",
      "date_en": "25",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "10",
      "date_en": "26",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "11",
      "date_en": "27",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "12",
      "date_en": "28",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "13",
      "date_en": "29",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "14",
      "date_en": "30",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "15",
      "date_en": "31",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "16",
      "date_en": "1",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "17",
      "date_en": "2",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "18",
      "date_en": "3",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "19",
      "date_en": "4",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "20",
      "date_en": "5",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "21",
      "date_en": "6",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "22",
      "date_en": "7",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "23",
      "date_en": "8",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "24",
      "date_en": "9",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "25",
      "date_en": "10",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "26",
      "date_en": "11",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "27",
      "date_en": "12",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "28",
      "date_en": "13",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "29",
      "date_en": "14",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "30",
      "date_en": "15",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Poush": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Poush": [
+    {
      "tithi": " तृतीया ",
      "date_np": "1",
      "date_en": "16",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "2",
      "date_en": "17",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "3",
      "date_en": "18",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "4",
      "date_en": "19",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "5",
      "date_en": "20",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "6",
      "date_en": "21",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "7",
      "date_en": "22",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "8",
      "date_en": "23",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "9",
      "date_en": "24",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "10",
      "date_en": "25",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "11",
      "date_en": "26",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "12",
      "date_en": "27",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "13",
      "date_en": "28",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "14",
      "date_en": "29",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "15",
      "date_en": "30",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "16",
      "date_en": "1",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "17",
      "date_en": "2",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "18",
      "date_en": "3",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "19",
      "date_en": "4",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "20",
      "date_en": "5",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "21",
      "date_en": "6",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "22",
      "date_en": "7",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "23",
      "date_en": "8",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "24",
      "date_en": "9",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "25",
      "date_en": "10",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "26",
      "date_en": "11",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "27",
      "date_en": "12",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "28",
      "date_en": "13",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "29",
      "date_en": "14",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Magh": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Magh": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "1",
      "date_en": "15",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "2",
      "date_en": "16",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "3",
      "date_en": "17",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "4",
      "date_en": "18",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "5",
      "date_en": "19",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "6",
      "date_en": "20",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "7",
      "date_en": "21",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "8",
      "date_en": "22",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "9",
      "date_en": "23",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "10",
      "date_en": "24",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "11",
      "date_en": "25",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "12",
      "date_en": "26",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "13",
      "date_en": "27",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "14",
      "date_en": "28",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "15",
      "date_en": "29",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "16",
      "date_en": "30",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "17",
      "date_en": "31",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "18",
      "date_en": "1",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "19",
      "date_en": "2",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "20",
      "date_en": "3",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "21",
      "date_en": "4",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "22",
      "date_en": "5",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "23",
      "date_en": "6",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "24",
      "date_en": "7",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "25",
      "date_en": "8",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "26",
      "date_en": "9",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "27",
      "date_en": "10",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "28",
      "date_en": "11",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "29",
      "date_en": "12",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "30",
      "date_en": "13",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Falgun": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Falgun": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "1",
      "date_en": "14",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "2",
      "date_en": "15",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "3",
      "date_en": "16",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "4",
      "date_en": "17",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "5",
      "date_en": "18",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "6",
      "date_en": "19",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "7",
      "date_en": "20",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "8",
      "date_en": "21",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "9",
      "date_en": "22",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "10",
      "date_en": "23",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "11",
      "date_en": "24",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "12",
      "date_en": "25",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "13",
      "date_en": "26",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "14",
      "date_en": "27",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "15",
      "date_en": "28",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "16",
      "date_en": "29",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "17",
      "date_en": "30",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "18",
      "date_en": "31",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "19",
      "date_en": "1",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "20",
      "date_en": "2",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "21",
      "date_en": "3",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "22",
      "date_en": "4",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "23",
      "date_en": "5",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "24",
      "date_en": "6",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "25",
      "date_en": "7",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "26",
      "date_en": "8",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "27",
      "date_en": "9",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "28",
      "date_en": "10",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "29",
      "date_en": "11",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- },
- {
-  "Chaitra": [
-   {
-    "0": {
+   ]
+  },
+  {
+   "Chaitra": [
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Sunday"
-    }
-   },
-   {
-    "1": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Monday"
-    }
-   },
-   {
-    "2": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Tuesday"
-    }
-   },
-   {
-    "3": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Wednesday"
-    }
-   },
-   {
-    "4": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "1",
      "date_en": "12",
      "day": "Thursday"
-    }
-   },
-   {
-    "5": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "2",
      "date_en": "13",
      "day": "Friday"
-    }
-   },
-   {
-    "6": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "3",
      "date_en": "14",
      "day": "Saturday"
-    }
-   },
-   {
-    "7": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "4",
      "date_en": "15",
      "day": "Sunday"
-    }
-   },
-   {
-    "8": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "5",
      "date_en": "16",
      "day": "Monday"
-    }
-   },
-   {
-    "9": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "6",
      "date_en": "17",
      "day": "Tuesday"
-    }
-   },
-   {
-    "10": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "7",
      "date_en": "18",
      "day": "Wednesday"
-    }
-   },
-   {
-    "11": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "8",
      "date_en": "19",
      "day": "Thursday"
-    }
-   },
-   {
-    "12": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "9",
      "date_en": "20",
      "day": "Friday"
-    }
-   },
-   {
-    "13": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "10",
      "date_en": "21",
      "day": "Saturday"
-    }
-   },
-   {
-    "14": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "11",
      "date_en": "22",
      "day": "Sunday"
-    }
-   },
-   {
-    "15": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "12",
      "date_en": "23",
      "day": "Monday"
-    }
-   },
-   {
-    "16": {
+    },
+    {
      "tithi": " औसी ",
      "date_np": "13",
      "date_en": "24",
      "day": "Tuesday"
-    }
-   },
-   {
-    "17": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "14",
      "date_en": "25",
      "day": "Wednesday"
-    }
-   },
-   {
-    "18": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "15",
      "date_en": "26",
      "day": "Thursday"
-    }
-   },
-   {
-    "19": {
+    },
+    {
      "tithi": " दृतीया ",
      "date_np": "16",
      "date_en": "27",
      "day": "Friday"
-    }
-   },
-   {
-    "20": {
+    },
+    {
      "tithi": " तृतीया ",
      "date_np": "17",
      "date_en": "28",
      "day": "Saturday"
-    }
-   },
-   {
-    "21": {
+    },
+    {
      "tithi": " चतुर्थी ",
      "date_np": "18",
      "date_en": "1",
      "day": "Sunday"
-    }
-   },
-   {
-    "22": {
+    },
+    {
      "tithi": " पञ्चमी ",
      "date_np": "19",
      "date_en": "2",
      "day": "Monday"
-    }
-   },
-   {
-    "23": {
+    },
+    {
      "tithi": " षष्ठी ",
      "date_np": "20",
      "date_en": "3",
      "day": "Tuesday"
-    }
-   },
-   {
-    "24": {
+    },
+    {
      "tithi": " सप्तमी ",
      "date_np": "21",
      "date_en": "4",
      "day": "Wednesday"
-    }
-   },
-   {
-    "25": {
+    },
+    {
      "tithi": " अष्टमी ",
      "date_np": "22",
      "date_en": "5",
      "day": "Thursday"
-    }
-   },
-   {
-    "26": {
+    },
+    {
      "tithi": " नवमी ",
      "date_np": "23",
      "date_en": "6",
      "day": "Friday"
-    }
-   },
-   {
-    "27": {
+    },
+    {
      "tithi": " दशमी ",
      "date_np": "24",
      "date_en": "7",
      "day": "Saturday"
-    }
-   },
-   {
-    "28": {
+    },
+    {
      "tithi": " एकादशी ",
      "date_np": "25",
      "date_en": "8",
      "day": "Sunday"
-    }
-   },
-   {
-    "29": {
+    },
+    {
      "tithi": " द्वादशी ",
      "date_np": "26",
      "date_en": "9",
      "day": "Monday"
-    }
-   },
-   {
-    "30": {
+    },
+    {
      "tithi": " त्रयोदशी ",
      "date_np": "27",
      "date_en": "10",
      "day": "Tuesday"
-    }
-   },
-   {
-    "31": {
+    },
+    {
      "tithi": " चतुर्दशी ",
      "date_np": "28",
      "date_en": "11",
      "day": "Wednesday"
-    }
-   },
-   {
-    "32": {
+    },
+    {
      "tithi": " पुर्णिमा ",
      "date_np": "29",
      "date_en": "12",
      "day": "Thursday"
-    }
-   },
-   {
-    "33": {
+    },
+    {
      "tithi": " प्रतिपदा ",
      "date_np": "30",
      "date_en": "13",
      "day": "Friday"
-    }
-   },
-   {
-    "34": {
+    },
+    {
      "tithi": "",
      "date_np": "",
      "date_en": "",
      "day": "Saturday"
     }
-   }
-  ]
- }
-]
+   ]
+  }
+ ]
+}

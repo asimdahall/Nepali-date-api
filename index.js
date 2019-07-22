@@ -3,7 +3,7 @@ let $ = require("cheerio");
 let fs = require("fs");
 const url = "https://www.ashesh.com.np/nepali-calendar/";
 
-const START_YEAR = 2049;
+const START_YEAR = 1970;
 const END_YEAR = 2078;
 const MONTHS = [
   "Baishakh",
@@ -41,10 +41,10 @@ let finalData = [];
       let m = await scrapData({ year: year, month: MONTHS[i] });
       y = [...y, m];
     }
-    fs.writeFile(`${year}.json`, JSON.stringify(y, null, 1), e => {
+    fs.writeFile(`${year}.json`, JSON.stringify({ [year]: y }, null, 1), e => {
       if (e) console.log(e);
     });
-    finalData = [...finalData, y];
+    finalData = [...finalData, { [year]: y }];
   }
   fs.writeFile("nepalidata.json", JSON.stringify(finalData, null, 1), err => {
     if (err) console.log(err);
@@ -93,12 +93,10 @@ async function scrapData({ year, month }) {
             m = [
               ...m,
               {
-                [index]: {
-                  tithi,
-                  date_np,
-                  date_en,
-                  day: DAYS[i]
-                }
+                tithi,
+                date_np,
+                date_en,
+                day: DAYS[i]
               }
             ];
             index += 1;
